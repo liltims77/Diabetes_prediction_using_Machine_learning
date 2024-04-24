@@ -3,12 +3,6 @@
 Overview
 This project aims to predict the onset of diabetes in patients using machine learning techniques, specifically Support Vector Machines (SVM). The dataset used for this project contains various biomedical measurements, such as glucose level, blood pressure, and body mass index (BMI), collected from patients. By analyzing these features, we can build a predictive model to identify individuals at risk of developing diabetes.
 
-# Table of Contents
-clone repo
-Dataset
-Models
-Evaluation
-Contributing
 
 # Clone the repository:
 bash

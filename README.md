@@ -17,7 +17,7 @@ Copy code
 git clone https://github.com/liltims77/Diabetes_prediction_using_Machine_learning/diabetes-prediction.git
 
 Dataset
-The dataset used in this project is available in the data directory. It contains . You can find more information about the dataset (https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset).
+The dataset used in this project is available in the data directory. You can find more information about the dataset (https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset).
 
 Models
 We use Support Vector Machines (SVM) for building the predictive model. SVM is a powerful machine learning algorithm that is effective in classification tasks. You can explore different SVM configurations and kernel functions in the models.py file.
